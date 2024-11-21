@@ -9,5 +9,9 @@
   "dependencies": {
     "@jscutlery/semver": "^5.1.0",
     "nx": "^18.0.1"
+  },
+  "engines": {
+    "node": ">=20",
+    "npm": ">=9"
   }
 }
