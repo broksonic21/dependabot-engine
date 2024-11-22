@@ -7,7 +7,7 @@
   },
   "author": "",
   "dependencies": {
-    "nx": "^18.0.1"
+    "nx": "^17.0.0"
   },
   "engines": {
     "node": ">=20",
